@@ -1,4 +1,4 @@
-var CACHE_NAME = 'forked2_cache_v001';
+var CACHE_NAME = 'forked2_cache_v002';
 var urlsToCache = [
   'index.html'
 , 'js/main.js'
